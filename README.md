@@ -58,6 +58,16 @@ This file can be loaded to perform scene classification without retraining the m
 
 ![Training Accuracy](accuracy_graph.png)
 
+## Prediction Example
+
+Example output from the trained CNN model.
+
+### Forest Scene Prediction
+
+![Forest Prediction](prediction_forest.png)
+
+The model correctly identifies the environmental scene as **Forest**.
+
 ## Applications
 
 * Scene understanding
