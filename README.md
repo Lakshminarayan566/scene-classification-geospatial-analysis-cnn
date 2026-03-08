@@ -45,6 +45,14 @@ Validation Accuracy: ~88%
 
 The model demonstrates strong performance in classifying environmental scenes using transfer learning.
 
+## Trained Model
+
+The trained model is saved as:
+
+scene_classification_model.h5
+
+This file can be loaded to perform scene classification without retraining the model.
+
 ## Applications
 
 * Scene understanding
