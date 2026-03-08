@@ -53,6 +53,11 @@ scene_classification_model.h5
 
 This file can be loaded to perform scene classification without retraining the model.
 
+
+## Model Training Accuracy
+
+![Training Accuracy](accuracy_graph.png)
+
 ## Applications
 
 * Scene understanding
